@@ -9,6 +9,7 @@
 
 body{
     background-color: #111252;
+    overflow-x: hidden;
 }
 
 nav{
@@ -196,6 +197,9 @@ footer .form form button{
     h1{
         display: none;
     }
+    nav ul li a{
+        font-size: 10pt;
+    }
     .exdivs .text{
         width: 90%;
     }
@@ -226,5 +230,20 @@ footer .form form button{
         text-align: justify;
 
    }
-  
+
+   footer .form form input{
+    width: 200px;
+    height: 30px;
+    
+}
+footer .form form textarea{
+    width: 200px;
+    height: 50px;
+    
+}
+footer .form form button{
+    width: 340px;
+    height: 35px;
+    
+}
 }
