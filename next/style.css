@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #111252;
+}
+
+.msg{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    padding-top: 200px;
+}
+
+.msg h1{
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20pt;
+}
+
+.msg button{
+    background-color: rgb(9, 255, 0);
+    cursor: pointer;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: none;
+    font-weight: bold;
+    font-size: 13pt;
+    color: #111252;
+}
