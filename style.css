@@ -103,6 +103,10 @@ main{
     font-weight: 200;
 }
 
+.exdivs a{
+    text-align: center;
+}
+
 .exdivs img{
     height: 200px;
     border-radius: 10px;
