@@ -216,6 +216,9 @@ footer .form form button{
     .exdivs .text{
         width: 90%;
     }
+    .exdivs iframe{
+        width: 90%;
+    }
     .exdivs img{
         height: auto;
         width: 90%;
